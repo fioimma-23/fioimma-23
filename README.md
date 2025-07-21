@@ -1,7 +1,7 @@
 # 👋 Hi, Fionna Immaculate Here
 
 🎓 Final-year **Computer Science and Engineering** student at **NIT Trichy**  
-🧠 Passionate about **AI/ML**, **Compilers**, **System Design**, and **Full-Stack Development**  
+🧠 More focused on **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**  
 💡 Always curious to explore emerging tech and build impactful software
 
 ---
