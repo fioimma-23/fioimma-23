@@ -107,7 +107,7 @@
 
 - 🔗 [LinkedIn – fionna-immaculate](https://www.linkedin.com/in/fionna-immaculate/)  
 - 📧 Email: **fioimma23@gmail.com**  
-- 💼 Portfolio (Coming Soon...)
+- 💼 Portfolio: https://fionna-immaculate.netlify.app
 
 
 # 📊 GitHub Stats:
